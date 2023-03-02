@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Portfolio</h1>
 
-  <a href="https://shubham.nimje.co.in/">
+  <a href="https://shubham-s-nimje.github.io/portfolio/">
     <img src="https://www.a2solutions.ae/wp-content/uploads/2016/12/live-demo.png" alt="Demo" width="300" height="auto">
   </a>
 
