@@ -20,7 +20,7 @@
     "main.337c02f1.js.map": "/portfolio/static/js/main.337c02f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.78023dcf.css",
-    "static/js/main.337c02f1.js"
+    "portfolio/static/css/main.78023dcf.css",
+    "portfolio/static/js/main.337c02f1.js"
   ]
 }
